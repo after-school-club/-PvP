@@ -1,0 +1,1 @@
+execute as @a in 2vs2vs:pvp_area run tp @a ~ ~ ~
