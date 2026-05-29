@@ -1,1 +1,0 @@
-execute as @a[tag=!game] at @s if predicate 2vs2vs:in_overworld run function 2vs2vs:tick/attribute
